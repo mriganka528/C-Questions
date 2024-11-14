@@ -210,7 +210,7 @@ int main()
     do
     {
         printf("\n___MENU___");
-        printf("\n1)Create the linked list.\n                                                                                     2) Insert at head.\n                                                                                                     3)Insert at end.\n                                                                                                       4)Insert before a node.\n                                                                                                5)Insert after a node.\n                                                                                                 6)Delete head node.\n                                                                                                    7)Delete end node.\n                                                                                                     8)Delete a given node.\n                                                                                                 9)Delete a node after a given node.\n                                                                                   10)Print the list.\n                                                                                                    11)Exit");
+        printf("\n1)Create the linked list.\n2) Insert at head.\n3)Insert at end.\n4)Insert before a node.\n5)Insert after a node.\n6)Delete head node.\n7)Delete end node.\n8)Delete a given node.\n9)Delete a node after a given node.\n10)Print the list.\n11)Exit");
         printf("\nEnter your choice :");
         scanf("%d", &ch);
         switch (ch)
